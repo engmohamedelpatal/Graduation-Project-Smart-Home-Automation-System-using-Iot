@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smart-home-5e0d1",
+          "appId": "1:171395486421:android:8caa0c2cdbaf904294c85c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smart-home-5e0d1",
+          "configurations": {
+            "android": "1:171395486421:android:8caa0c2cdbaf904294c85c",
+            "ios": "1:171395486421:ios:4bb66ec9637c3f3094c85c",
+            "macos": "1:171395486421:ios:4bb66ec9637c3f3094c85c",
+            "web": "1:171395486421:web:3c1b9dac5ab8ce0094c85c",
+            "windows": "1:171395486421:web:47e836ea89eb1f8494c85c"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

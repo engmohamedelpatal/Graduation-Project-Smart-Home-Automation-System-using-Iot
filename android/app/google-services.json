@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "171395486421",
+    "firebase_url": "https://smart-home-5e0d1-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-5e0d1",
+    "storage_bucket": "smart-home-5e0d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171395486421:android:8caa0c2cdbaf904294c85c",
+        "android_client_info": {
+          "package_name": "com.shivam.flutter_application_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3e_Pu_p-T9JEueWGXnOC4-HKiTDNMuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
